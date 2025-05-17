@@ -1,4 +1,4 @@
-# Power BI P&L Dashboard: Turning Data into Insights  
+# 🚀 Power BI P&L Dashboard: Turning Data into Insights  
 
 I recently built a **Profit & Loss (P&L) dashboard**, integrating a **Decomposition Tree** alongside a **table with conditional formatting** to make financial analysis more intuitive. The dashboard enables users to drill down into revenue sources, costs, and profit drivers while also providing a structured view of financial figures.  
 
@@ -12,11 +12,27 @@ By combining **visual and tabular elements**, this dashboard ensures clarity and
 
 💡 **What techniques or visuals do you use to enhance P&L reporting? Let's discuss!**  
 
+### 🌐 Dashboard Link  
+🔗 [View the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGRiOTFhMjMtMjFkZS00OGM3LTk3ZDEtNjAwYWMzMWFmN2Y3IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9))  
+
+### 📸 Visual Previews  
+
+**Dashboard Overview:**  
+![Dashboard Overview](ADD-YOUR-IMAGE-LINK-HERE)  
+
+**Decomposition Tree in Action:**  
+![Decomposition Tree](ADD-YOUR-IMAGE-LINK-HERE)  
+
+**Conditional Formatting Table:**  
+![Conditional Formatting](ADD-YOUR-IMAGE-LINK-HERE)  
+
 ### 📌 Tags  
 `#PowerBI` `#FinancialDashboard` `#DataVisualization` `#DAX` `#HashtagTreinamento`  
 
 ---
 
-This should work well for your GitHub profile! Let me know if you'd like any adjustments. 🚀😃
+Simply replace the placeholders (`ADD-YOUR-LINK-HERE` & `ADD-YOUR-IMAGE-LINK-HERE`) with your actual dashboard link and image URLs to complete your README! 🚀😃  
+Let me know if you need any additional tweaks!
+
 
 https://app.powerbi.com/view?r=eyJrIjoiNGRiOTFhMjMtMjFkZS00OGM3LTk3ZDEtNjAwYWMzMWFmN2Y3IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9
