@@ -29,10 +29,13 @@ By combining **visual and tabular elements**, this dashboard ensures clarity and
 ![Conditional Formatting](![P L Analysis by Debora Klein table](https://github.com/user-attachments/assets/cfb2c2cf-153e-4ef8-845c-540a1f474085)
 )  
 
+### ⚠️ Disclaimer  
+*The financial figures and insights provided in this dashboard are entirely **fictitious** and do not reflect actual financial data. This dashboard is intended purely for demonstration and educational purposes.* 
+
 ### 📌 Tags  
 `#PowerBI` `#FinancialDashboard` `#DataVisualization` `#DAX` `#HashtagTreinamentos`  
 
----
+
 
 
 
