@@ -30,12 +30,10 @@ By combining **visual and tabular elements**, this dashboard ensures clarity and
 )  
 
 ### 📌 Tags  
-`#PowerBI` `#FinancialDashboard` `#DataVisualization` `#DAX` `#HashtagTreinamento`  
+`#PowerBI` `#FinancialDashboard` `#DataVisualization` `#DAX` `#HashtagTreinamentos`  
 
 ---
 
-Simply replace the placeholders (`ADD-YOUR-LINK-HERE` & `ADD-YOUR-IMAGE-LINK-HERE`) with your actual dashboard link and image URLs to complete your README! 🚀😃  
-Let me know if you need any additional tweaks!
 
 
-https://app.powerbi.com/view?r=eyJrIjoiNGRiOTFhMjMtMjFkZS00OGM3LTk3ZDEtNjAwYWMzMWFmN2Y3IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9
+
